@@ -9,6 +9,12 @@ searchIntent what is happening {date}
 searchIntent what is happening on {date}
 searchIntent what events are happening {date}
 searchIntent what events are happening on {date}
+searchIntent what for lunch on {date}
+searchIntent what for breakfast on {date}
+searchIntent what are the scores from {date}
+searchIntent who won {date}
+searchIntent what are the announcements for{date}
+searchIntent tell me the announcements on {date}
 
 eventIntent tell me about event {number}
 eventIntent whats event {number}
