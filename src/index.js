@@ -20,7 +20,7 @@ var URL = "https://calendar.google.com/calendar/ical/avoneagles.org_classroomba4
 //var URL = "https://calendar.yahoo.com/swseighman/0f4c4beb916a9baa7555a9ddea162409/ycal.ics";
 
 // Skills name 
-var skillName = "EagleCal:";
+var skillName = "Daily Eagle:";
 
 // Message when the skill is first called
 var welcomeMessage = "You can ask for the events today. Search for events by date. or say help. What would you like? ";
